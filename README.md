@@ -9,6 +9,8 @@ There are a number of things Dirigible Labs projects can not do since they are n
 * use the org.eclipse namespace for their bundles names, or
 * participate in the annual Eclipse release trains, unless they are included in an official Eclipse project.
 
+Full description about the User Guidelines can be found at https://wiki.eclipse.org/Dirigible/DirigibleLabs
+
 ## Adding Your Project
 
 To add your existing GitHub repository as a Dirigible Labs project, open an issue against this repository and one of our administrators will guide you through the process.
