@@ -16,4 +16,4 @@ There are a number of things Dirigible Labs projects cannot do since they are no
 * They cannot use the `org.eclipse` namespace for their bundles names
 * They cannot participate in the annual Eclipse release trains, unless they are included in an official Eclipse project.
 
-Full description about the User Guidelines can be found at <https://wiki.eclipse.org/Dirigible/DirigibleLabs>.
+Full description about the User Guidelines can be found at https://github.com/eclipse/dirigible/wiki
